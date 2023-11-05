@@ -1,3 +1,3 @@
-# Introduction to Java
+# Mental Health Analysis
 
-This your copy of the code for the java-course. The course itself is located in the issues of this repository.
+. The course itself is located in the issues of this repository.
